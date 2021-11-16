@@ -1,0 +1,7 @@
+body {font-family: sans-serif;}
+.col {border: 2px solid rgb(206, 206, 206); background-color: rgb(241, 241, 241);}
+.col-5 {border: 2px solid rgb(206, 206, 206); background-color: rgb(241, 241, 241);}
+.col-7 {border: 2px solid rgb(206, 206, 206); background-color: rgb(241, 241, 241);}
+.col-8 {border: 2px solid rgb(206, 206, 206); background-color: rgb(241, 241, 241);}
+.row {margin-bottom: 4px;}
+.container {margin-bottom: 30px;}
